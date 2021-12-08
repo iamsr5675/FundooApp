@@ -1,0 +1,21 @@
+.fundoo-logo {
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  font-weight: bold;
+  font-size: 2.7vh;
+}
+
+.f-letter {
+  color: rgb(66, 133, 244);
+}
+
+.u-letter {
+  color: rgb(234, 67, 53);
+}
+
+.n-letter {
+  color: rgb(251, 188, 5);
+}
+
+.o-letter {
+  color: rgb(52, 168, 83);
+}

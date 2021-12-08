@@ -1,0 +1,147 @@
+.header {
+  display: flex;
+  height: 9vh;
+  width: 100%;
+  border: 1px solid grey;
+}
+
+.name {
+  color: #5f6368;
+  font-family: "Product Sans", Arial, sans-serif;
+  font-size: 22px;
+  line-height: 15px;
+  margin-left: 8px;
+  padding-top: 15px;
+  cursor: pointer;
+}
+
+.logo {
+  margin-left: 20px;
+  padding-top: 8px;
+  line-height: 15px;
+  vertical-align: middle;
+}
+
+.logo img {
+  height: 8vh;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.menu {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-left: 9px;
+  padding-top: 7px;
+  color: #5f6368;
+  border-radius: 30px;
+}
+
+.menu img {
+  padding-right: 7px;
+}
+
+.menu:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.form-control {
+  width: 36rem;
+  background-color: #f0f3f4;
+}
+
+.search {
+  height: 6vh;
+  width: 40vw;
+  margin-top: 13px;
+  margin-left: 60px;
+  border-radius: 8px;
+}
+
+.refresh {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 9rem;
+  border-radius: 30px;
+}
+
+.refresh img {
+  padding-top: 5px;
+}
+
+.refresh:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.list {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 30px;
+}
+
+.list img {
+  padding-top: 5px;
+}
+
+.list:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.setting {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 30px;
+}
+
+.setting img {
+  padding-top: 5px;
+}
+
+.setting:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.apps {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 5rem;
+  border-radius: 30px;
+}
+
+.apps img {
+  padding-top: 6px;
+}
+
+.apps:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.profile {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 30px;
+}
+
+.profile img {
+  padding-top: 6px;
+}
+
+.profile:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}

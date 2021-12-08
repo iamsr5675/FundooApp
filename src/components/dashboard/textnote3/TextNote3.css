@@ -1,0 +1,62 @@
+.lead {
+  /* display: flex;
+  justify-content: center; */
+  margin-top: 50px;
+}
+
+.card1 {
+  height: 6vh;
+  width: 20vw;
+  background: url("https://img.icons8.com/material-outlined/30/000000/pin.png")
+    right no-repeat;
+  padding-right: 17px;
+  cursor: pointer;
+  border-radius: 8px 8px 0px 0px;
+  border-top: 1px solid grey;
+  border-bottom: none;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  outline: none;
+}
+
+.card2 {
+  height: 8vh;
+  width: 20vw;
+  border-radius: 0px 0px 0px 0px;
+  border-top: none;
+  border-bottom: none;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  outline: none;
+}
+
+.q1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.card3 {
+  display: flex;
+  align-items: center;
+  height: 5vh;
+  width: 20vw;
+  border-bottom: 1px solid grey;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  border-radius: 0px 0px 8px 8px;
+}
+
+.iconss {
+  display: none;
+  justify-content: space-between;
+  width: 19vw;
+}
+
+.q1:hover .iconss {
+  display: flex;
+}
+
+.iconic:hover {
+  background-color: lightgray;
+  border-radius: 12px;
+}

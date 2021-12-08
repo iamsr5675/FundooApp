@@ -1,0 +1,107 @@
+.signup {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid lightgray;
+  border-radius: 8px 8px 0 0;
+  height: 80vh;
+  width: 60vw;
+  margin-top: 5%;
+}
+
+.title {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 14px;
+}
+
+.section1 {
+  height: 70vh;
+  min-width: 60%;
+}
+
+.create h1 {
+  color: #202124;
+  font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.3333;
+  text-align: left;
+  margin-left: 5%;
+}
+
+.text1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.text2 {
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+.text3 {
+  font-weight: 500;
+  padding-right: 36%;
+  font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+}
+
+.text4 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.text5 {
+  min-height: 3vh;
+  min-width: 100%;
+  font-size: 1.6vh;
+  max-width: 18vw;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.text6 {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 6%;
+}
+
+.text7 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text71 {
+  display: flex;
+  justify-content: start;
+  min-width: 40%;
+  padding-left: 6%;
+}
+
+.text72 {
+  min-width: 40%;
+  display: flex;
+  justify-content: end;
+  padding-right: 6%;
+}
+
+.section2 {
+  height: 78vh;
+  min-width: 36%;
+}
+
+.acount-image {
+  padding-top: 10vh;
+  max-width: 50vh;
+}
+
+.mail-description {
+  font-weight: lighter;
+}

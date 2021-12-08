@@ -1,0 +1,52 @@
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  height: 10vh;
+  width: 100vw;
+}
+
+.note {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 6vh;
+  width: 45vw;
+  border: 1px solid lightgrey;
+  border-radius: 8px 8px 8px 8px;
+  box-shadow: 1px 1px 1px 1px;
+}
+
+.note h5 {
+  padding-left: 10px;
+}
+
+.img1 {
+  margin-left: 17rem;
+  cursor: pointer;
+}
+
+.img1:hover {
+  background-color: lightgrey;
+  border-radius: 12px;
+}
+
+.img2 {
+  margin-left: 2rem;
+  cursor: pointer;
+}
+
+.img2:hover {
+  background-color: lightgrey;
+  border-radius: 12px;
+}
+
+.img3 {
+  margin-left: 2rem;
+  cursor: pointer;
+}
+
+.img3:hover {
+  background-color: lightgrey;
+  border-radius: 12px;
+}
